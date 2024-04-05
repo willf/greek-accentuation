@@ -35,7 +35,7 @@ def is_valid_consonant_cluster(b, c):
 
 
 def display_word(w):
-    return ".".join(w)
+    return "·".join(w)
 
 
 def syllabify(word):
